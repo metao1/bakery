@@ -1,2 +1,6 @@
 out
 /out
+.idea
+
+\.idea
+\out
