@@ -8,8 +8,11 @@ Task:
 Given a customer order you are required to determine the cost and pack breakdown for each product. To save on shipping space each order should contain the minimal number of packs.
 Name Code Packs
 Prices and producst are:
+
 Vegemite Scroll  VS5 3 @ $6.99 5 @ $8.99
+
 Blueberry Muffin  MB11  2 @ $9.95 5 @ $16.95 8 @ $24.95
+
 Croissant CF 3  @  $5.95 5 @ $9.95 9 @ $16.99
 
 Input:
