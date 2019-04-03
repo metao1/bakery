@@ -6,12 +6,20 @@ So if the shop sold vegemite scroll in packs of 3 and 5 and a customer ordered 8
 The bakery currently sells the following products:
 Task:
 Given a customer order you are required to determine the cost and pack breakdown for each product. To save on shipping space each order should contain the minimal number of packs.
+Name Code Packs
+Prices and producst are:
+Vegemite Scroll  VS5 3 @ $6.99 5 @ $8.99
+Blueberry Muffin  MB11  2 @ $9.95 5 @ $16.95 8 @ $24.95
+Croissant CF 3  @  $5.95 5 @ $9.95 9 @ $16.99
+
 Input:
 Each order has a series of lines with each line containing the number of items followed by the
 product code. An example input:
 
 10 VS5
+
 14 MB11
+
 13 CF
 
 Output:
